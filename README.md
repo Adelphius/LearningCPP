@@ -1,7 +1,7 @@
 # LearningCPP
 Various programs I have written while learning c++
 
-#passwordCreador
+#passwordCreator
 randomly generates a password with a base word and length of your choise
 
 install.sh for linux that compiles the code with g++ and adds it to the /bin directory.
